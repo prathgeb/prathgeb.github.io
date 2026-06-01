@@ -1,4 +1,4 @@
-[HOME](README.md) | [About me](ABOUT.md)
+[HOME](HOME.md) | [About me](ABOUT.md)
 
 # My First Github Page
 
